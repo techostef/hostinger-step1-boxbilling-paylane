@@ -1,0 +1,252 @@
+2019-12-17 18:26:32 INFO (6): Added new  email template #1
+2019-12-17 18:26:32 INFO (6): Added new  email template #2
+2019-12-17 18:26:32 INFO (6): Added new  email template #3
+2019-12-17 18:26:32 INFO (6): Added new  email template #4
+2019-12-17 18:26:32 INFO (6): Added new  email template #5
+2019-12-17 18:26:32 INFO (6): Added new  email template #6
+2019-12-17 18:26:32 INFO (6): Added new  email template #7
+2019-12-17 18:26:32 INFO (6): Added new  email template #8
+2019-12-17 18:26:32 INFO (6): Added new  email template #9
+2019-12-17 18:26:32 INFO (6): Added new  email template #10
+2019-12-17 18:26:32 INFO (6): Added new  email template #11
+2019-12-17 18:26:32 INFO (6): Added new  email template #12
+2019-12-17 18:26:32 INFO (6): Added new  email template #13
+2019-12-17 18:26:32 INFO (6): Added new  email template #14
+2019-12-17 18:26:32 INFO (6): Added new  email template #15
+2019-12-17 18:26:32 INFO (6): Added new  email template #16
+2019-12-17 18:26:32 INFO (6): Added new  email template #17
+2019-12-17 18:26:32 INFO (6): Added new  email template #18
+2019-12-17 18:26:32 INFO (6): Added new  email template #19
+2019-12-17 18:26:32 INFO (6): Added new  email template #20
+2019-12-17 18:26:32 INFO (6): Added new  email template #21
+2019-12-17 18:26:32 INFO (6): Added new  email template #22
+2019-12-17 18:26:32 INFO (6): Added new  email template #23
+2019-12-17 18:26:32 INFO (6): Added new  email template #24
+2019-12-17 18:26:33 INFO (6): Added new  email template #25
+2019-12-17 18:26:33 INFO (6): Added new  email template #26
+2019-12-17 18:26:33 INFO (6): Added new  email template #27
+2019-12-17 18:26:33 INFO (6): Added new  email template #28
+2019-12-17 18:26:33 INFO (6): Added new  email template #29
+2019-12-17 18:26:33 INFO (6): Added new  email template #30
+2019-12-17 18:26:33 INFO (6): Added new  email template #31
+2019-12-17 18:26:33 INFO (6): Added new  email template #32
+2019-12-17 18:26:33 INFO (6): Added new  email template #33
+2019-12-17 18:26:33 INFO (6): Added new  email template #34
+2019-12-17 18:26:33 INFO (6): Added new  email template #35
+2019-12-17 18:26:33 INFO (6): Added new  email template #36
+2019-12-17 18:26:33 INFO (6): Added new  email template #37
+2019-12-17 18:26:33 INFO (6): Added new  email template #38
+2019-12-17 18:26:33 INFO (6): Added new  email template #39
+2019-12-17 18:26:33 INFO (6): Added new  email template #40
+2019-12-17 18:26:33 INFO (6): Added new  email template #41
+2019-12-17 18:26:33 INFO (6): Added new  email template #42
+2019-12-17 18:26:33 INFO (6): Added new  email template #43
+2019-12-17 18:26:33 INFO (6): Added new  email template #44
+2019-12-17 18:26:33 INFO (6): Added new  email template #45
+2019-12-17 18:26:33 INFO (6): Added new  email template #46
+2019-12-17 18:26:33 INFO (6): Added new  email template #47
+2019-12-17 18:26:33 INFO (6): Generated email templates for installed extensions
+2019-12-17 18:26:55 INFO (6): Staff member 1 logged in
+2019-12-17 18:28:04 INFO (6): Created new client #1
+2019-12-17 18:28:16 INFO (6): Removed client #1
+2019-12-17 18:28:54 INFO (6): Created new client #2
+2019-12-17 18:29:10 INFO (6): Client #2 logged in
+2019-12-17 18:34:02 INFO (6): Installed new payment gateway Paylane
+2019-12-17 18:34:28 INFO (6): Updated payment gateway Paylane
+2019-12-17 18:34:45 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:34:52 INFO (6): Prepared new invoice "1"
+2019-12-17 18:34:52 INFO (6): Approved invoice "1"
+2019-12-17 18:34:52 INFO (6): Checked out shopping cart
+2019-12-17 18:38:11 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:38:14 INFO (6): Prepared new invoice "2"
+2019-12-17 18:38:14 INFO (6): Approved invoice "2"
+2019-12-17 18:38:14 INFO (6): Checked out shopping cart
+2019-12-17 18:39:28 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:39:29 INFO (6): Prepared new invoice "3"
+2019-12-17 18:39:29 INFO (6): Approved invoice "3"
+2019-12-17 18:39:29 INFO (6): Checked out shopping cart
+2019-12-17 18:41:13 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:41:15 INFO (6): Prepared new invoice "4"
+2019-12-17 18:41:15 INFO (6): Approved invoice "4"
+2019-12-17 18:41:15 INFO (6): Checked out shopping cart
+2019-12-17 18:42:36 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:42:38 INFO (6): Prepared new invoice "5"
+2019-12-17 18:42:38 INFO (6): Approved invoice "5"
+2019-12-17 18:42:38 INFO (6): Checked out shopping cart
+2019-12-17 18:49:09 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:49:11 INFO (6): Prepared new invoice "6"
+2019-12-17 18:49:11 INFO (6): Approved invoice "6"
+2019-12-17 18:49:11 INFO (6): Checked out shopping cart
+2019-12-17 18:49:48 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:49:54 INFO (6): Prepared new invoice "7"
+2019-12-17 18:49:54 INFO (6): Approved invoice "7"
+2019-12-17 18:49:54 INFO (6): Checked out shopping cart
+2019-12-17 18:50:41 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:50:42 INFO (6): Prepared new invoice "8"
+2019-12-17 18:50:42 INFO (6): Approved invoice "8"
+2019-12-17 18:50:42 INFO (6): Checked out shopping cart
+2019-12-17 18:51:41 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:51:44 INFO (6): Prepared new invoice "9"
+2019-12-17 18:51:44 INFO (6): Approved invoice "9"
+2019-12-17 18:51:44 INFO (6): Checked out shopping cart
+2019-12-17 18:58:41 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:58:47 INFO (6): Prepared new invoice "10"
+2019-12-17 18:58:47 INFO (6): Marked invoice "10" as paid
+2019-12-17 18:58:47 INFO (6): Approved invoice "10"
+2019-12-17 18:58:47 INFO (6): Activated order #10
+2019-12-17 18:58:47 INFO (6): Checked out shopping cart
+2019-12-17 18:59:24 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 18:59:51 INFO (6): Logged out
+2019-12-17 19:00:46 INFO (6): Created new client #3
+2019-12-17 19:01:00 INFO (6): Client #3 logged in
+2019-12-17 19:01:12 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:01:14 INFO (6): Prepared new invoice "11"
+2019-12-17 19:01:14 INFO (6): Approved invoice "11"
+2019-12-17 19:01:14 INFO (6): Checked out shopping cart
+2019-12-17 19:03:48 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:03:50 INFO (6): Prepared new invoice "12"
+2019-12-17 19:03:50 INFO (6): Approved invoice "12"
+2019-12-17 19:03:50 INFO (6): Checked out shopping cart
+2019-12-17 19:07:54 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:08:01 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:08:03 INFO (6): Prepared new invoice "13"
+2019-12-17 19:08:03 INFO (6): Approved invoice "13"
+2019-12-17 19:08:03 INFO (6): Checked out shopping cart
+2019-12-17 19:15:36 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:15:38 INFO (6): Prepared new invoice "14"
+2019-12-17 19:15:38 INFO (6): Approved invoice "14"
+2019-12-17 19:15:38 INFO (6): Checked out shopping cart
+2019-12-17 19:35:35 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:35:37 INFO (6): Prepared new invoice "15"
+2019-12-17 19:35:37 INFO (6): Approved invoice "15"
+2019-12-17 19:35:37 INFO (6): Checked out shopping cart
+2019-12-17 19:41:39 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:41:41 INFO (6): Prepared new invoice "16"
+2019-12-17 19:41:41 INFO (6): Approved invoice "16"
+2019-12-17 19:41:41 INFO (6): Checked out shopping cart
+2019-12-17 19:42:43 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:42:46 INFO (6): Prepared new invoice "17"
+2019-12-17 19:42:46 INFO (6): Approved invoice "17"
+2019-12-17 19:42:46 INFO (6): Checked out shopping cart
+2019-12-17 19:47:12 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:47:14 INFO (6): Prepared new invoice "18"
+2019-12-17 19:47:14 INFO (6): Approved invoice "18"
+2019-12-17 19:47:14 INFO (6): Checked out shopping cart
+2019-12-17 19:57:46 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 19:57:51 INFO (6): Prepared new invoice "19"
+2019-12-17 19:57:51 INFO (6): Approved invoice "19"
+2019-12-17 19:57:51 INFO (6): Checked out shopping cart
+2019-12-17 20:08:54 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 20:08:56 INFO (6): Prepared new invoice "20"
+2019-12-17 20:08:56 INFO (6): Approved invoice "20"
+2019-12-17 20:08:56 INFO (6): Checked out shopping cart
+2019-12-17 20:16:14 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 20:16:16 INFO (6): Prepared new invoice "21"
+2019-12-17 20:16:16 INFO (6): Approved invoice "21"
+2019-12-17 20:16:16 INFO (6): Checked out shopping cart
+2019-12-17 20:16:43 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 20:16:44 INFO (6): Prepared new invoice "22"
+2019-12-17 20:16:44 INFO (6): Approved invoice "22"
+2019-12-17 20:16:44 INFO (6): Checked out shopping cart
+2019-12-17 20:17:41 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-17 20:17:43 INFO (6): Prepared new invoice "23"
+2019-12-17 20:17:43 INFO (6): Approved invoice "23"
+2019-12-17 20:17:43 INFO (6): Checked out shopping cart
+2019-12-18 13:43:01 INFO (6): Staff member 1 logged in
+2019-12-18 13:43:01 INFO (6): Staff member 1 logged in
+2019-12-18 13:50:19 INFO (6): Client #3 logged in
+2019-12-18 14:03:21 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-18 14:03:23 INFO (6): Prepared new invoice "24"
+2019-12-18 14:03:23 INFO (6): Approved invoice "24"
+2019-12-18 14:03:23 INFO (6): Checked out shopping cart
+2019-12-18 14:04:36 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-18 14:04:38 INFO (6): Prepared new invoice "25"
+2019-12-18 14:04:38 INFO (6): Approved invoice "25"
+2019-12-18 14:04:38 INFO (6): Checked out shopping cart
+2019-12-18 14:04:49 INFO (6): Updated payment gateway Paylane
+2019-12-18 14:05:04 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-18 14:05:06 INFO (6): Prepared new invoice "26"
+2019-12-18 14:05:06 INFO (6): Approved invoice "26"
+2019-12-18 14:05:06 INFO (6): Checked out shopping cart
+2019-12-18 14:05:44 INFO (6): Removed payment gateway 4
+2019-12-18 14:05:53 INFO (6): Installed new payment gateway Paylane
+2019-12-18 14:06:17 INFO (6): Updated payment gateway PayPalEmail
+2019-12-18 14:06:33 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-18 14:06:36 INFO (6): Prepared new invoice "27"
+2019-12-18 14:06:36 INFO (6): Approved invoice "27"
+2019-12-18 14:06:36 INFO (6): Checked out shopping cart
+2019-12-18 14:07:53 INFO (6): Updated payment gateway PayPalEmail
+2019-12-18 14:08:09 INFO (6): Updated payment gateway Paylane
+2019-12-18 14:08:23 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-18 14:08:25 INFO (6): Prepared new invoice "28"
+2019-12-18 14:08:25 INFO (6): Approved invoice "28"
+2019-12-18 14:08:25 INFO (6): Checked out shopping cart
+2019-12-18 14:35:05 INFO (6): Updated payment gateway Paylane
+2019-12-18 14:35:14 INFO (6): Updated payment gateway Paylane
+2019-12-18 14:35:48 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-18 14:35:50 INFO (6): Prepared new invoice "29"
+2019-12-18 14:35:50 INFO (6): Approved invoice "29"
+2019-12-18 14:35:50 INFO (6): Checked out shopping cart
+2019-12-18 16:02:44 INFO (6): Updated payment gateway PayPalEmail
+2019-12-18 16:02:58 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-18 16:03:02 INFO (6): Prepared new invoice "30"
+2019-12-18 16:03:02 INFO (6): Approved invoice "30"
+2019-12-18 16:03:02 INFO (6): Checked out shopping cart
+2019-12-18 16:35:26 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-18 16:35:30 INFO (6): Prepared new invoice "31"
+2019-12-18 16:35:30 INFO (6): Approved invoice "31"
+2019-12-18 16:35:30 INFO (6): Checked out shopping cart
+2019-12-18 16:38:02 INFO (6): Added "Domains registration and transfer" to shopping cart
+2019-12-18 16:38:04 INFO (6): Prepared new invoice "32"
+2019-12-18 16:38:04 INFO (6): Approved invoice "32"
+2019-12-18 16:38:04 INFO (6): Checked out shopping cart
+2019-12-18 16:58:49 INFO (6): Received transaction 1 from payment gateway 
+2019-12-18 16:58:57 INFO (6): Received transaction 2 from payment gateway 
+2019-12-18 16:59:41 INFO (6): Received transaction 3 from payment gateway 
+2019-12-18 17:00:15 INFO (6): Received transaction 4 from payment gateway 
+2019-12-18 17:02:08 INFO (6): Received transaction 5 from payment gateway 
+2019-12-18 17:03:40 INFO (6): Received transaction 6 from payment gateway 5
+2019-12-18 17:05:28 INFO (6): Received transaction 7 from payment gateway 5
+2019-12-18 17:05:33 INFO (6): Received transaction 8 from payment gateway 5
+2019-12-18 17:05:57 INFO (6): Received transaction 9 from payment gateway 5
+2019-12-18 17:07:47 INFO (6): Received transaction 10 from payment gateway 5
+2019-12-18 17:09:23 INFO (6): Received transaction 11 from payment gateway 5
+2019-12-18 17:10:09 INFO (6): Received transaction 12 from payment gateway 5
+2019-12-18 17:12:42 INFO (6): Received transaction 13 from payment gateway 5
+2019-12-18 17:18:50 INFO (6): Received transaction 14 from payment gateway 5
+2019-12-18 17:20:50 INFO (6): Received transaction 15 from payment gateway 5
+2019-12-18 17:20:50 INFO (6): Updated transaction #15
+2019-12-18 17:21:56 INFO (6): Received transaction 16 from payment gateway 5
+2019-12-18 17:21:56 INFO (6): Updated transaction #16
+2019-12-18 17:22:45 INFO (6): Received transaction 17 from payment gateway 5
+2019-12-18 17:22:45 INFO (6): Updated transaction #17
+2019-12-18 17:27:27 INFO (6): Received transaction 18 from payment gateway 5
+2019-12-18 17:27:27 INFO (6): Updated transaction #18
+2019-12-18 17:30:09 INFO (6): Received transaction 19 from payment gateway 5
+2019-12-18 17:30:09 INFO (6): Updated transaction #19
+2019-12-18 17:37:50 INFO (6): Received transaction 20 from payment gateway 5
+2019-12-18 17:37:50 INFO (6): Updated transaction #20
+2019-12-18 17:37:50 INFO (6): Updated transaction #20
+2019-12-18 17:37:50 INFO (6): Updated transaction #20
+2019-12-18 17:37:50 INFO (6): Updated transaction #20
+2019-12-18 17:37:50 INFO (6): Updated transaction #20
+2019-12-18 17:39:55 INFO (6): Received transaction 21 from payment gateway 5
+2019-12-18 17:39:55 INFO (6): Updated transaction #21
+2019-12-18 17:39:55 INFO (6): Updated transaction #21
+2019-12-18 17:39:55 INFO (6): Updated transaction #21
+2019-12-18 17:39:55 INFO (6): Updated transaction #21
+2019-12-18 17:39:55 INFO (6): Updated transaction #21
+2019-12-18 17:41:17 INFO (6): Received transaction 22 from payment gateway 5
+2019-12-18 17:41:17 INFO (6): Updated transaction #22
+2019-12-18 17:41:17 INFO (6): Updated transaction #22
+2019-12-18 17:41:17 INFO (6): Updated transaction #22
+2019-12-18 17:41:18 INFO (6): Updated transaction #22
+2019-12-18 17:43:33 INFO (6): Received transaction 23 from payment gateway 5
+2019-12-18 17:43:33 INFO (6): Updated transaction #23
+2019-12-18 17:43:33 INFO (6): Updated transaction #23
+2019-12-18 17:43:33 INFO (6): Updated transaction #23
+2019-12-18 17:43:33 INFO (6): Updated transaction #23
+2019-12-18 17:43:33 INFO (6): Marked invoice "32" as paid
+2019-12-18 17:43:33 INFO (6): Cover invoice with client credits
+2019-12-18 17:43:33 INFO (6): Executed action to try cover unpaid invoices with client credits
+2019-12-18 17:43:33 INFO (6): Updated transaction #23

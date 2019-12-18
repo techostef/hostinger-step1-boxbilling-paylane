@@ -1,0 +1,72 @@
+[17-Dec-2019 18:26:54 UTC] 
+[17-Dec-2019 18:34:02 UTC] An exception has been thrown during the rendering of a template ("Payment gateway class Payment_Adapter_Paylane was not found") in "mod_invoice_gateways.phtml" at line 31.
+[17-Dec-2019 18:34:53 UTC] 8 Undefined index: pub_key C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 164
+[17-Dec-2019 18:34:53 UTC] Argument 1 passed to Box\Mod\Invoice\ServicePayGateway::getCallbackUrl() must be an instance of Model_PayGateway, null given, called in C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php on line 230 and defined
+[17-Dec-2019 18:34:53 UTC] PHP Catchable fatal error:  Argument 1 passed to Box\Mod\Invoice\ServicePayGateway::getCallbackUrl() must be an instance of Model_PayGateway, null given, called in C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php on line 230 and defined in C:\xampp 5.6\htdocs\BoxBilling\bb-modules\Invoice\ServicePayGateway.php on line 307
+[17-Dec-2019 18:37:58 UTC] Can not checkout empty cart. 0
+[17-Dec-2019 19:01:19 UTC] 8 Array to string conversion C:\xampp 5.6\htdocs\BoxBilling\bb-data\cache\74\e4\dda2978d4c713a4272e8af1dc07f856dc48123490b3b7ddee43db6a4c06b.php 60
+[17-Dec-2019 19:03:55 UTC] 8 Array to string conversion C:\xampp 5.6\htdocs\BoxBilling\bb-data\cache\74\e4\dda2978d4c713a4272e8af1dc07f856dc48123490b3b7ddee43db6a4c06b.php 60
+[17-Dec-2019 19:08:09 UTC] 8 Array to string conversion C:\xampp 5.6\htdocs\BoxBilling\bb-data\cache\74\e4\dda2978d4c713a4272e8af1dc07f856dc48123490b3b7ddee43db6a4c06b.php 60
+[17-Dec-2019 19:35:33 UTC] 
+[17-Dec-2019 19:35:43 UTC] 8 Array to string conversion C:\xampp 5.6\htdocs\BoxBilling\bb-data\cache\74\e4\dda2978d4c713a4272e8af1dc07f856dc48123490b3b7ddee43db6a4c06b.php 60
+[17-Dec-2019 19:41:42 UTC] 2 Missing argument 2 for Payment_Adapter_Paylane::_generateForm(), called in C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php on line 54 and defined C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 162
+[17-Dec-2019 19:41:42 UTC] Object of class Model_Invoice could not be converted to string
+[17-Dec-2019 19:41:42 UTC] PHP Catchable fatal error:  Object of class Model_Invoice could not be converted to string in C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php on line 197
+[17-Dec-2019 19:42:31 UTC] Can not checkout empty cart. 0
+[17-Dec-2019 19:47:14 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 400
+[17-Dec-2019 19:47:14 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 400
+[17-Dec-2019 19:51:40 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 401
+[17-Dec-2019 19:52:41 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 401
+[17-Dec-2019 19:53:08 UTC] 8 Undefined index: recurrent C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Custom.php 71
+[17-Dec-2019 19:57:51 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 401
+[17-Dec-2019 19:57:51 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 401
+[17-Dec-2019 20:08:57 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 402
+[17-Dec-2019 20:08:57 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 402
+[17-Dec-2019 20:16:16 UTC] 8 Undefined index: single C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 65
+[17-Dec-2019 20:16:16 UTC] Invalid module name 714
+[17-Dec-2019 20:16:26 UTC] 8 Undefined index: single C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 65
+[17-Dec-2019 20:16:26 UTC] Invalid module name
+[17-Dec-2019 20:16:44 UTC] 8 Undefined index: single C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 65
+[17-Dec-2019 20:16:44 UTC] Invalid module name 714
+[17-Dec-2019 20:17:31 UTC] Can not checkout empty cart. 0
+[17-Dec-2019 20:17:43 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 421
+[17-Dec-2019 20:17:43 UTC] 8 Undefined index: email C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 421
+[18-Dec-2019 13:43:00 UTC] 
+[18-Dec-2019 14:03:24 UTC] Payment gateway "PayPal" is not configured properly. Please update configuration parameter "PayPal Email address" at "Configuration -> Payments". 0
+[18-Dec-2019 14:03:33 UTC] Can not checkout empty cart. 0
+[18-Dec-2019 14:04:38 UTC] Payment gateway "PayPal" is not configured properly. Please update configuration parameter "PayPal Email address" at "Configuration -> Payments". 0
+[18-Dec-2019 14:05:01 UTC] Years parameter is missing for domain configuration. 0
+[18-Dec-2019 14:05:06 UTC] Payment gateway "PayPal" is not configured properly. Please update configuration parameter "PayPal Email address" at "Configuration -> Payments". 0
+[18-Dec-2019 14:08:25 UTC] Payment gateway "PayPal" is not configured properly. Please update configuration parameter "PayPal Email address" at "Configuration -> Payments". 0
+[18-Dec-2019 14:35:36 UTC] Can not checkout empty cart. 0
+[18-Dec-2019 16:02:44 UTC] 
+[18-Dec-2019 16:35:10 UTC] 8 Undefined index: currency C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 294
+[18-Dec-2019 16:35:30 UTC] 8 Undefined index: currency C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 294
+[18-Dec-2019 16:35:30 UTC] 8 Undefined index: currency C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 294
+[18-Dec-2019 16:37:48 UTC] 8 Undefined index: currency C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 294
+[18-Dec-2019 16:38:04 UTC] 8 Undefined index: currency C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 294
+[18-Dec-2019 16:38:04 UTC] 8 Undefined index: currency C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 294
+[18-Dec-2019 16:38:13 UTC] 8 Undefined index: currency C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 294
+[18-Dec-2019 17:05:50 UTC] Order #34 has no active service
+[18-Dec-2019 17:11:31 UTC] Order #34 has no active service
+[18-Dec-2019 17:20:50 UTC] 8 Undefined index: txn_type C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 113
+[18-Dec-2019 17:20:50 UTC] Unknown paypal transaction 15
+[18-Dec-2019 17:21:56 UTC] 8 Undefined index: txn_type C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 113
+[18-Dec-2019 17:21:56 UTC] Unknown paypal transaction 16
+[18-Dec-2019 17:22:45 UTC] 8 Undefined index: txn_type C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 113
+[18-Dec-2019 17:22:45 UTC] Unknown paypal transaction 17
+[18-Dec-2019 17:27:27 UTC] 8 Undefined index: txn_type C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 115
+[18-Dec-2019 17:27:27 UTC] Unknown paypal transaction 18
+[18-Dec-2019 17:30:09 UTC] 8 Undefined index: txn_type C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 121
+[18-Dec-2019 17:30:09 UTC] Unknown paypal transaction 19
+[18-Dec-2019 17:41:18 UTC] 8 Undefined index: mc_gross C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 132
+[18-Dec-2019 17:41:18 UTC] 8 Undefined index: txn_id C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 133
+[18-Dec-2019 17:41:18 UTC] 8 Undefined index: txn_id C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 135
+[18-Dec-2019 17:41:18 UTC] 8 Undefined index: txn_id C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 368
+[18-Dec-2019 17:41:18 UTC] 8 Undefined index: payment_status C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 369
+[18-Dec-2019 17:41:18 UTC] 8 Undefined index: txn_type C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 370
+[18-Dec-2019 17:41:18 UTC] 8 Undefined index: mc_gross C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 371
+[18-Dec-2019 17:43:33 UTC] 8 Undefined index: txn_id C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 368
+[18-Dec-2019 17:43:33 UTC] 8 Undefined index: payment_status C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 369
+[18-Dec-2019 17:43:33 UTC] 8 Undefined index: txn_type C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 370
+[18-Dec-2019 17:43:33 UTC] 8 Undefined index: mc_gross C:\xampp 5.6\htdocs\BoxBilling\bb-library\Payment\Adapter\Paylane.php 371
